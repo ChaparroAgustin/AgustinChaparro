@@ -1,0 +1,48 @@
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+}
+header{
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: transparent;
+        background-size: 100%;
+        background-attachment: unset;
+        
+        text-align: center;
+}
+body{
+        background-image: url("https://previews.123rf.com/images/vska/vska1409/vska140900141/32073186-fondo-abstracto-del-vector-la-tecnolog%C3%ADa-de-estilo-futurista-fondo-elegante-para-presentaciones-de-neg.jpg");
+background-attachment: scroll;
+        background-repeat: no-repeat;
+        background-size:cover;
+        margin: 0;
+}
+section{
+        min-width: 1000px;
+        margin: auto;
+        padding: 30px 0;
+}
+section h1{
+        font-size: 24px;
+}
+.frente{
+        text-align: center;
+}
+.frente p{ 
+        font-size: 30px;
+        font-weight: bold;
+        margin: 1em 0;
+}
+.frente a {
+        color: white;
+        text-decoration: none;
+        background-color: yellowgreen;
+        padding: 2px 20px;
+        border-radius: 10px;
+        font-size: 10px;
+        margin 10px;
+}
+.perfil{
+
+}
